@@ -41,4 +41,4 @@ GO for Mobile | [Click here](https://godoc.org/golang.org/x/mobile/app) | :us:
 ### Projetos de Usuários do Grupo (CoLang - Coding)
 Titulos| Link | Criador| Lang
 :-- | :-- | :-- | :--
-Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) @ReiGel_ado |:us:
+Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) | @ReiGel_ado |:us:
