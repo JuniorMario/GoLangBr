@@ -3,7 +3,7 @@
 
 Nome | Link | Lang
 :-- | :-- | :--
-Introudção a Go para programação paralela| [Click Here](http://alemedeiros.sdf.org/files/go-intro/presentation.pdf) | ![][brazilian-flag]
+Introudção a Go para programação paralela| [Click Here](http://alemedeiros.sdf.org/files/go-intro/presentation.pdf) | ![][brazilian]
 Programação em Go | [Click Here](https://drive.google.com/file/d/0B3PFLMbxA0fnX0JCQzdEdmw4U0k/view) | ![][brazilian]
 GO Tour | [Click Here](https://go-tour-br.appspot.com/welcome/1) | ![][brazilian]
 Documentação do Go | [Click Here](http://www.golangbr.org/doc/) | ![][brazilian]
@@ -42,4 +42,4 @@ GO for Mobile | [Click here](https://godoc.org/golang.org/x/mobile/app) | :us:
 Titulos| Link | Criador| Lang
 :-- | :-- | :-- | :--
 Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) | @ReiGel_ado |:us:
-[brazilian]: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThdoeEC1aitzcZWphVng1veANGjJUhqKTW_4vFfMDt-wmfYojKI0vbR
+[brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
