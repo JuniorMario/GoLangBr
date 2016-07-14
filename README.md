@@ -11,12 +11,14 @@ An Introduction to Programming in Go | [Click here](https://www.golang-book.com/
 Learn Go in Y Minutes | [Click Here](https://learnxinyminutes.com/docs/go) | :us:
 Outra lista de Go | [Click Here](https://github.com/golang/go/wiki/Learn) | :us:
 Golang Book | [Click Here](https://play.google.com/store/apps/details?id=com.timger.golangbook) | :us:
+Libs do Go | [Click Here](https://golanglibs.com/) | :us:
    
 ### Artigos
 Titulos | Link | Lang
 :-- | :-- | :--
 Building Python Modules With Go | [Click Here](https://blog.filippo.io/building-python-modules-with-go-1-5/) | :us:
-   
+Connectin Golang to Oracle Database | [Click Here](https://andrey.nering.com.br/2016/connecting-golang-to-oracle-database/) | :us:
+Por que utilizar Go no seu back-end | [Click Here](http://tableless.com.br/por-que-utilizar-gogolang-no-seu-backend/) | ![][brazilian] 
 
 ### Eventos
 Titulo | Link | Lang
@@ -36,7 +38,9 @@ Titulos| Link | Lang
 :-- | :-- | :--
 TgBotAPI | [Click here](https://godoc.org/github.com/go-telegram-bot-api/telegram-bot-api) | :us:
 GO Install | [Click here](https://github.com/canha/golang-tools-install-script/blob/master/goinstall.sh) | :us:
+GO Frameworks | [Click here](https://github.com/avelino/awesome-go/blob/master/README.md) | :us:
 GO for Mobile | [Click here](https://godoc.org/golang.org/x/mobile/app) | :us:
+GO Google API | [Click Here](https://github.com/google/google-api-go-client/tree/master/examples) | :us:
    
 ### Projetos de Usuários do Grupo (CoLang - Coding)
 Titulos| Link | Criador| Lang
