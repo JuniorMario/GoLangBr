@@ -45,5 +45,7 @@ GO Google API | [Click Here](https://github.com/google/google-api-go-client/tree
 ### Projetos de Usuários do Grupo (CoLang - Coding)
 Titulos| Link | Criador| Lang
 :-- | :-- | :-- | :--
-Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) | @ReiGel_ado |![][brazilian] 
+Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) |Arthur - @ReiGel_ado |![][brazilian] 
+Bot Proverbs | [Click here](http://github.com/nubunto/proverbs) | Bruno Luis - @panuto |![][brazilian]
 [brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
+
