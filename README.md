@@ -50,7 +50,7 @@ Titulos| Link | Criador| Lang
 :-- | :-- | :-- | :--
 Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) |Arthur - @ReiGel_ado |![][brazilian] 
 Bot Proverbs | [Click here](http://github.com/nubunto/proverbs) | Bruno Luis - @panuto |![][brazilian]
-Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | Luccas Prado - @Chloe75 | ![][brazilian]
-Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | Luccas Prado - @Chloe75 | ![][brazilian]
+Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | Lucca Prado - @Chloe75 | ![][brazilian]
+Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | Lucca Prado - @Chloe75 | ![][brazilian]
 [brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
 
