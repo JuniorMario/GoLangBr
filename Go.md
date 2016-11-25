@@ -45,18 +45,18 @@ GO Google API | [Click Here](https://github.com/google/google-api-go-client/tree
 Mgo | [Click Here](http://labix.org/mgo) | :us:
 Golang Projects | [Click Here](http://www.golangprojects.com) | :us:
    
-### Projetos de Usuários do Grupo (CoLang - Coding)
+### Projetos de Usuários do Grupo (GoLang - Coding)
 Titulos| Link | Criador| Lang
 :-- | :-- | :-- | :--
-Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) |Arthur - @ReiGel_ado |![][brazilian] 
-Bot Proverbs | [Click here](http://github.com/nubunto/proverbs) | Bruno Luis - @panuto |![][brazilian]
-Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | Lucca Prado - @Chloe75 | ![][brazilian]
-Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | Lucca Prado - @Chloe75 | ![][brazilian]
-Gonion | [Click Here](https://github.com/JuniorMario/Gonion) | Júnior Mário - @Barionix | ![][brazilian]
-Trovilo | [Click Here](https://github.com/JuniorMario/Trovilo) | Júnior Mário - @Barionix | ![][brazilian]
-tts | [Click Here](https://github.com/nubunto/tts) | Bruno Luis - @nubunto | :us:
-fixr | [Click Here](https://github.com/nubunto/fixr) | Bruno Luis - @nubunto | :us:
-st | [Click Here](https://github.com/nubunto/st) | Bruno Luis - @nubunto | :us:
-st | [Click Here](https://github.com/nubunto/st) | Bruno Luis - @nubunto | :us:
+Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) |[Arthur - @ReiGel_ado](telegram.me/ReiGel_ado) |![][brazilian] 
+Bot Proverbs | [Click here](http://github.com/nubunto/proverbs) | [Bruno Luis - @nubunto](telegram.me/nubunto) |![][brazilian]
+Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | [Lucca Prado - @Chloe75](telegram.me/Chloe75) | ![][brazilian]
+Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | [Lucca Prado - @Chloe75](telegram.me/Chloe75) | ![][brazilian]
+Gonion | [Click Here](https://github.com/JuniorMario/Gonion) | [Júnior Mário - @Barionix](telegram.me/Barionix) | ![][brazilian]
+Trovilo | [Click Here](https://github.com/JuniorMario/Trovilo) | [Júnior Mário - @Barionix](telegram.me/Barionix) | ![][brazilian]
+tts | [Click Here](https://github.com/nubunto/tts) | [Bruno Luis - @nubunto](telegram.me/nubunto) | :us:
+fixr | [Click Here](https://github.com/nubunto/fixr) | [Bruno Luis - @nubunto](telegram.me/nubunto) | :us:
+st | [Click Here](https://github.com/nubunto/st) | [Bruno Luis - @nubunto](telegram.me/nubunto) | :us:
+
 [brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
 
