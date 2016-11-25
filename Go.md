@@ -52,5 +52,7 @@ Go Dork Scan | [Click here](https://github.com/ReiGelado/Go-Dork-Scan) |Arthur -
 Bot Proverbs | [Click here](http://github.com/nubunto/proverbs) | Bruno Luis - @panuto |![][brazilian]
 Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | Lucca Prado - @Chloe75 | ![][brazilian]
 Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | Lucca Prado - @Chloe75 | ![][brazilian]
+Gonion | [Click Here](https://github.com/JuniorMario/Gonion) | Júnior Mário - @Barionix | ![][brazilian]
+Trovilo | [Click Here](https://github.com/JuniorMario/Trovilo) | Júnior Mário - @Barionix | ![][brazilian]
 [brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
 
