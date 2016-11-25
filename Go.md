@@ -54,5 +54,9 @@ Keylogger | [Click Here](https://github.com/LuccaPrado/keylogger) | Lucca Prado 
 Dropper | [Click Here](https://github.com/LuccaPrado/dropper) | Lucca Prado - @Chloe75 | ![][brazilian]
 Gonion | [Click Here](https://github.com/JuniorMario/Gonion) | Júnior Mário - @Barionix | ![][brazilian]
 Trovilo | [Click Here](https://github.com/JuniorMario/Trovilo) | Júnior Mário - @Barionix | ![][brazilian]
+tts | [Click Here](https://github.com/nubunto/tts) | Bruno Luis - @nubunto | :us:
+fixr | [Click Here](https://github.com/nubunto/fixr) | Bruno Luis - @nubunto | :us:
+st | [Click Here](https://github.com/nubunto/st) | Bruno Luis - @nubunto | :us:
+st | [Click Here](https://github.com/nubunto/st) | Bruno Luis - @nubunto | :us:
 [brazilian]: http://findicons.com/files/icons/1015/world_cup_flags/16/brazil.png
 
