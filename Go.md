@@ -30,6 +30,7 @@ Meetup | [Click Here](http://www.meetup.com/pt-BR/golangbr/) | ![][brazilian]
 ### Grupos/Foruns de Go
 Titulos| Link | Lang
 :-- | :-- | :--
+Gophelia | [Click here](https://forum.gophelia.tech/) |![][brazilian] 
 GoLang - Coding (Telegram) | [Click here](http://telegram.me/GoLangCoding) |![][brazilian] 
 Golang Grupos do Google | [Click here](https://groups.google.com/forum/#!forum/golang-brasil) |![][brazilian] 
 Go Forum | [Click here](https://forum.golangbridge.org/) |:us:
